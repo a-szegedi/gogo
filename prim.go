@@ -2,6 +2,8 @@ package main
 
 import ("fmt")
 
+//comment
+
 func main() {
 
 	a := 1237
